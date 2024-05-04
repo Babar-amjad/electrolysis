@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: rgb(246, 223, 74);
   }
   
   .contact-icon .items {
@@ -16,7 +16,7 @@
     justify-content: center;
     align-items: center;
     border-radius: 100%;
-    border: 2px solid blueviolet;
+    border: 2px solid orange;
   }
   
   .contact-icon .items:hover {
