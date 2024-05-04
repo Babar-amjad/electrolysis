@@ -36,9 +36,9 @@ const Hero = () => {
         <p className='mx-6 text-xl w-full'>Your dermatologist or a specially trained technician will insert a thin wire into each of your hair follicles (but not through your skin) in the area you want treated. Then, they'll send a current of electricity down the wire, which heats up and kills the hair follicle as well as the root itself.Electrolysis can be used on any part of the body. No type or volume of body hair is too stubborn for treatment and no body part too embarrassing. Treatment areas include all facial areas, legs, bikini line, chest, nipples, back, abdomen, underarms, fingers, toes and eye brows.</p>
       
        </div>
-        <div className="right w-full md:mt-8 mt-4 md:mx-4 mx-1">
+        {/* <div className="right w-full md:mt-8 mt-4 md:mx-4 mx-1">
             <img className='w-full h-full' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwW_Qjch7M1qyjT0J63APZDJm3A08Wp0tnlA&usqp=CAU" alt="" srcset="" />
-        </div>
+        </div> */}
        
       </div>
     </div>

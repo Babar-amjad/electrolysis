@@ -12,9 +12,8 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="bg-orange-500 text-black justify-between p-1 md:flex w-full">
+      <div className="bg-orange-500 text-black justify-between p-1 md:flex w-full ">
         <div className="flex mx-10">
-          {/* <h1 className="mx-4 text-lg">Babar</h1> */}
           <img
             className="h-16 w-30  rounded-full md:items-start"
             src="https://electrolysis.com.pk/images/logoelect3.png"

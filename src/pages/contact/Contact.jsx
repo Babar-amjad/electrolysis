@@ -17,8 +17,8 @@ const Contact = () => {
 
   return (
     <>
-      <div className="container contact text-black my-10 mt-20" id="contact">
-        <h1 className="text-4xl text-center mt-20 font-semibold">CONTACT ME</h1>
+      <div className="container bg-green-400 h-full contact text-black mx-auto rounded-sm " id="contact">
+        <h1 className="text-4xl text-center mt-6 font-semibold pt-12">CONTACT ME</h1>
         <div
           className="contact-icon"
           data-aos="zoom-in-up"
@@ -50,11 +50,7 @@ const Contact = () => {
           </a>
         </div>
       </div>
-      <div className=" text-white bg-orange-500 mt-64 sm:mt-72">
-        <p className=" text-center text-xs p-4 font-serif">
-          All Content ©2024 Babar-amjad{" "}
-        </p>
-      </div>
+      
     </>
   );
 };
