@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="bg-orange-500 text-black justify-between p-1 md:flex w-full ">
+      <div className="bg-orange-500 text-black justify-between p-1 md:flex w-full sticky top-0 ">
         <div className="flex mx-10">
           <img
             className="h-16 w-30  rounded-full md:items-start"
